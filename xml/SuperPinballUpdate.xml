@@ -1,0 +1,9 @@
+<?xml version="2.0" encoding="utf-8" ?>
+<Manifest>
+<Version>1</Version>
+  <CheckInterval>900</CheckInterval>
+  <RemoteConfigUri>http://superpark-api.herokuapp.com/api/SuperPinballGetXAML</RemoteConfigUri>
+  <SecurityToken>D68EF3A7-E787-4CC4-B020-878BA649B4CD</SecurityToken>
+  <BaseUri>https://github.com/Lagotronics/SuperParkUpdate/raw/master/</BaseUri>
+  <Payload>SuperPinball.zip</Payload>
+</Manifest>
